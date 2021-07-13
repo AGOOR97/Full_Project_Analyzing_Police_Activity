@@ -1,8 +1,7 @@
 # Full_Project_Analyzing_Police_Activity
 
 
-## Analyzing Police Activity .... By / Mohammed AGooR
-
+## Analyzing Police Activity .... 
 ### brief Notes :
 Apply knowledge by answering interesting questions about a real dataset!, 
 explore the Stanford Open Policing Project dataset and analyze the impact of gender on police behavior, 
